@@ -30,16 +30,16 @@ This project involves the creation of a Sales Order Dashboard in Excel, designed
 ## Visualizations Included in the Dashboard
 The Sales Order Dashboard not only provides a clean and structured analysis of the data but also incorporates several powerful visualizations to communicate key trends effectively. These include:
 - **Line Chart**: Displays trends over time, showcasing sales growth  or decline over different hours of  the day.
-- <img src="images/Line_chart.png" alt="Line_chart" width="400"/>
+ <img src="images/Line_chart.png" alt="Line_chart" width="400"/>
 
 - **Bar Chart**: Used to compare orders across different months.
-- <img src="images/bar_chart.png" alt="bar_chart" width="400"/>
+ <img src="images/bar_chart.png" alt="bar_chart" width="400"/>
 
 - **Column Chart**: Provides a clear view of the comparison between sales orders in different days of the week.
-- <img src="images/column_chart.png" alt="column_chart" width="400"/>
+ <img src="images/column_chart.png" alt="column_chart" width="400"/>
 
 - **Donut Chart**: Offers a breakdown of sales orders by categories highlighting proportional distributions in an intuitive way.
-- <img src="images/pie_chart.png" alt="donut_chart" width="400"/>
+ <img src="images/pie_chart.png" alt="donut_chart" width="400"/>
 
 These charts offer interactive filtering and sorting features, allowing users to easily explore and analyze data in a meaningful way.
 
